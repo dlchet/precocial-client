@@ -1,0 +1,23 @@
+{
+    "name": "precocial-client",
+    "version": "0.0.1",
+    "description": "next.js frontend for the precocial platform",
+    "main": "index.js",
+    "repository": "git@github.com:dlchet/precocial-client.git",
+    "author": "daniel chetlin <chetlin.d@gmail.com>",
+    "license": "MPL-2.0",
+    "private": false,
+    "scripts": {
+        "dev": "next dev"
+    },
+    "dependencies": {
+        "next": "^12.1.4",
+        "react": "^18.0.0",
+        "react-dom": "^18.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^17.0.23",
+        "@types/react": "^17.0.43",
+        "typescript": "^4.6.3"
+    }
+}
